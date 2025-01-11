@@ -80,6 +80,7 @@ background-color:#C6E4D6;
     color: black;
 }
 .banner-img{
+    display: flex;
     width: 474.400px;
     height:300px;
 }
